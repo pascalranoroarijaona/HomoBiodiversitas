@@ -1,6 +1,6 @@
 {
   "kind": 1040,
-  "created_at": 1772240386,
+  "created_at": 1772244765,
   "tags": [
     [
       "x",
@@ -9,14 +9,10 @@
     [
       "filename",
       "IPI_1_FR.pdf"
-    ],
-    [
-      "size_bytes",
-      "436143"
     ]
   ],
-  "content": "Je certifie la provenance cryptographique de ce fichier binaire à cet instant précis.",
+  "content": "D-Trinity Proof of Provenance",
   "pubkey": "929b62d1d54090b224f6e73f31e78ebe76df5e3822f891a4a542343dba8eed51",
-  "id": "22d58eb0f260bef0f3dc8d7106367d24a4356f077efe300ce25e2f9df92b7999",
-  "sig": "a8087ddb9d9f6c736f124f2046f39e63062ef9aee6cb752b3237e64f74da7edfc6a2dbbd9fc6a62e9e9bbd778d6225fc0351b09ade41b783b5d6632269291c38"
+  "id": "10b15b1d67a8c6d07ec0c1c97e524379e62d6578a347fb0b9acecc17ebac5b72",
+  "sig": "0b1053bf68b1e08d9f8933ce0f46e339f1e84a458a5e337561e71c82666b766255ed666672ea3e0cf99e1f76472323b23d95c85965dd9f29aae7cc9b04f99341"
 }
