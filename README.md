@@ -8,14 +8,14 @@
 
 > Un seul code pour unir toute l'Humanité sur un seul standard : celui de la vérité mathématique. 
 
-> Il est temps pour la vie. Protégeons le code source. L'heure scientifique est venue.
+> Il est temps pour la vie. L'heure scientifique est venue. Protégeons le code source. 
 
 **Version 2.0 — February 2026**   
 *Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*
 ![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/HomoBiodiversitas.jpg)
 ![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/TheoryOfEverything.jpg)
 
-# 🌐 Homo Cryptographicus : Le Manifeste & La Simulation
+# 🌐 Homo Cryptographicus : L'ancêtre d'Homo Biodiversitas - Le Manifeste & La Simulation
 
 > "Dans un monde saturé d'incertitude, la vérité ne se décrète pas, elle se calcule."
 
