@@ -12,8 +12,8 @@
 
 **Version 2.0 — February 2026**   
 *Authors: [Pascal ranoroarijaona] — Open Source under CC-BY-SA 4.0*
-![HomoCryptographicus](https://github.com/pascalranoroarijaona/HomoCryptographicus/blob/main/HomoBiodiversitas.jpg)
-![HomoCryptographicus](https://github.com/pascalranoroarijaona/HomoCryptographicus/blob/main/TheoryOfEverything.jpg)
+![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/HomoBiodiversitas.jpg)
+![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/TheoryOfEverything.jpg)
 
 # 🌐 Homo Cryptographicus : L'ancêtre d'Homo Biodiversitas - Le Manifeste & La Simulation
 
@@ -23,7 +23,7 @@ Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répert
 
 **Version 1.0 — December 2025**   
 *Authors: [Pascal ranoroarijaona] — Open Source under CC-BY-SA 4.0*
-![HomoCryptographicus](https://github.com/pascalranoroarijaona/HomoCryptographicus/blob/main/HomoCryptographicus.jpg)
+![HomoCryptographicus](https://github.com/pascalranaora/HomoCryptographicus/blob/main/HomoCryptographicus.jpg)
 ---
 
 ## 📚 Contenu du Dépôt
@@ -35,7 +35,7 @@ Le manuscrit complet structuré en 12 chapitres. Une exploration profonde de la 
 * **[Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps](https://tinyurl.com/densiteinformation)** -- 16 janvier 2026
 * **[Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs](https://tinyurl.com/HiggsNakamoto)** -- 20 janvier 2026
 
-### 3. [Simulation] [Le Noyau (The Kernel)](https://github.com/pascalranoroarijaona/HomoCryptographicus/tree/main/Simulation)
+### 3. [Simulation] [Le Noyau (The Kernel)](https://github.com/pascalranaora/HomoCryptographicus/tree/main/Simulation)
 Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
 * **Preuve de Travail (PoW)** : Transmutation de l'énergie en immuabilité.
 * **Identité Cryptographique** : Signatures asymétriques pour la souveraineté de l'action.
