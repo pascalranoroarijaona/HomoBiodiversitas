@@ -42,6 +42,8 @@ Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
 * **Timechain** : Flèche du temps mathématique inviolable.
 
 ### 4. [Une Fiction] [Horizon Zéro : 2044](https://tinyurl.com/horizonzero2044) (PDF)
+<img width="457" height="711" alt="Screenshot 2026-06-16 092919" src="https://github.com/user-attachments/assets/b21cdd0b-62b6-497b-83a6-21609938b613" />
+
 Le versant narratif (Hard SF) qui simule l'application de ces théories dans un futur proche. Découvrez la lutte pour le "Protocole de Confiance" dans un monde dominé par les alliages à haute entropie et la suprématie quantique.
 
 
