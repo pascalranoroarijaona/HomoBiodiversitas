@@ -32,8 +32,8 @@ Bienvenue sur le dépôt officiel du projet **Homo Cryptographicus**. Ce répert
 Le manuscrit complet structuré en 12 chapitres. Une exploration profonde de la **Physique Numérique**, de l'**Individu Souverain** et de la **Société Modulaire**. Il pose les bases de l'Informatique Ontologique.
 
 ### 2. [Articles Scientifiques] (PDFs)
-* **[Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps](https://tinyurl.com/densiteinformation)** -- 16 janvier 2026
-* **[Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs](https://tinyurl.com/HiggsNakamoto)** -- 20 janvier 2026
+* **[Densité Thermodynamique de l'Information Numérique : L'Indice Oméga (Ω) et l'Ancrage de la Vérité par OpenTimestamps](https://github.com/pascalranoroarijaona/HomoBiodiversitas/DensiteNumInformation.pdf)** -- 16 janvier 2026
+* **[Le Mécanisme de Higgs-Nakamoto : Brisure Spontanée de la Symétrie des Difféomorphismes Temporels dans les Théories des Champs sur Réseau Dissipatifs](https://github.com/pascalranoroarijaona/HomoBiodiversitas/HiggsNakamoto.pdf)** -- 20 janvier 2026
 
 ### 3. [Simulation] [Le Noyau (The Kernel)](https://github.com/pascalranaora/HomoCryptographicus/tree/main/Simulation)
 Une implémentation fonctionnelle en C++ démontrant les piliers du livre :
